@@ -1,2 +1,2 @@
-echo " this is my first programme"
+echo "this is developer2 commit"
 
